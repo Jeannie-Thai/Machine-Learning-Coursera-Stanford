@@ -2,7 +2,7 @@
 https://www.coursera.org/learn/machine-learning
 
 
-11 week course taught by Andrew NG at Stanford University
+11 week course taught by Andrew Ng at Stanford University
 
 
 Machine learning is the science of getting computers to act without being explicitly programmed.
