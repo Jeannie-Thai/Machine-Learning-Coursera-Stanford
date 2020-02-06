@@ -1,5 +1,7 @@
 # Machine-Learning-Coursera-Stanford
 https://www.coursera.org/learn/machine-learning
+
+
 11 week course taught by Andrew NG at Stanford University
 
 
