@@ -7,6 +7,7 @@ https://www.coursera.org/learn/machine-learning
 
 Machine learning is the science of getting computers to act without being explicitly programmed.
 Topics include: 
+
 (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). 
 
 (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). 
